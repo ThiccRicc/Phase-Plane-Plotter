@@ -15,7 +15,7 @@ A high-performance computational Java utility engineered to simulate, analyze, a
 
 ---
 
-## 🛠️ Tech Stack & Language Metric
+##  Tech Stack & Language Metric
 
 * **Language:** Java (JDK 17 or higher recommended)
 * **Design Pattern:** Object-Oriented Domain Architecture (OOP)
@@ -70,7 +70,7 @@ Open your terminal framework and input these execution pathways to download and 
 
 ```bash
 # Clone the clean repository layout
-git clone https://github.com
+git clone https://github.com/ThiccRicc/Phase-Plane-Plotter.git
 
 # Enter the root trajectory directory
 cd Phase-Plane-Plotter
