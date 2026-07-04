@@ -28,10 +28,11 @@ A high-performance computational Java utility engineered to simulate, analyze, a
 ```text
  Phase-Plane-Plotter
    ├──  src/                  # Main Java Source Code Files
-   │   ├──  Main.java         # Execution Pipeline and Entry Vector
-   │   ├──  SystemModel.java  # Equations definition, matrix and parameter state settings
-   │   └──  Solver.java       # Numerical approximation solver engine
-   ├──  .gitignore            # Keeps your repo clean from heavy binary out/ or bin/ junk files
+   │   ├──  Main_phaseplane.java        # Entry point (Initializes UI/Logic frames)
+   │   ├──  Matrix.java                 # Equations definition, matrix and parameter state settings
+   │   ├──  PhasePlane.java             # Core system vector processing algorithms
+   |   └──  ExpressionEvaluator.java    # External class to solve expressions to be plotted
+   ├──  .gitignore            # Keeps repo clean from heavy binary out/ or bin/ junk files
    └──  README.md             # This structural engineering documentation page
 ```
 
