@@ -6,6 +6,11 @@ A high-performance computational Java utility engineered to simulate, analyze, a
 
 ---
 
+<img width="775" height="828" alt="image" src="https://github.com/user-attachments/assets/8c29c09c-0e80-41e8-bc7c-4b9a32cc4e8b" />
+
+
+---
+
 ##  Key Engineering Highlights
 
 * **Mathematical Simulation Engine:** Leverages precise calculus-based vector calculations to capture and plot directional fields for both linear and non-linear mathematical configurations.
